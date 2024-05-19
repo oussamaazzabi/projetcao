@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599450458990",
+    "project_id": "panneau-6f3b3",
+    "storage_bucket": "panneau-6f3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599450458990:android:d6206293f9cd723deaff7f",
+        "android_client_info": {
+          "package_name": "com.example.panneau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBucYT1lupNUeNF-3zfr9S1jbZBMXAZD6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
